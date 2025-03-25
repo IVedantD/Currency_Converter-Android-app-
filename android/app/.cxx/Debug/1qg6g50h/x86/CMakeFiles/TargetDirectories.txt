@@ -1,0 +1,2 @@
+D:/flutter project/currency_convertor/android/app/.cxx/Debug/1qg6g50h/x86/CMakeFiles/edit_cache.dir
+D:/flutter project/currency_convertor/android/app/.cxx/Debug/1qg6g50h/x86/CMakeFiles/rebuild_cache.dir
