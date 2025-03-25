@@ -1,20 +1,28 @@
-<<<<<<< HEAD
-# Currency_Converter-Android-app-
-=======
-# currency_convertor
+# Currency Converter - Android App
 
-A new Flutter project.
+A simple and user-friendly currency converter application built using Flutter. This app allows users to convert between different currencies in real time with up-to-date exchange rates.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Convert currencies in real-time.
+- Supports multiple currencies.
+- User-friendly and interactive UI.
+- Lightweight and fast performance.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Cross-platform framework.
+- **Dart**: Programming language for Flutter.
+- **REST API**: Fetching live exchange rates.
+- **Android & iOS Support**: Runs on both platforms.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 234e0e4 (Uploading projects)
+## Screenshots
+
+![Weather app](https://github.com/user-attachments/assets/858e0926-974c-4686-b668-1133bdd9b4b3)
+
+
+
+
+## Author
+
+Developed by **Vedant Damedhar**.
