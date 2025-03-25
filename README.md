@@ -23,6 +23,4 @@ A simple and user-friendly currency converter application built using Flutter. T
 
 
 
-## Author
 
-Developed by **Vedant Damedhar**.
