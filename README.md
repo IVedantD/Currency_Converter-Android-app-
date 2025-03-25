@@ -18,7 +18,12 @@ A simple and user-friendly currency converter application built using Flutter. T
 
 ## Screenshots
 
-![Weather app](https://github.com/user-attachments/assets/858e0926-974c-4686-b668-1133bdd9b4b3)
+![currency converter 01](https://github.com/user-attachments/assets/1908c2a4-64d0-4bba-92f4-90b080c43027)
+
+
+![currency converter 02](https://github.com/user-attachments/assets/d029981a-237b-4aec-8ad5-620778463b82)
+
+
 
 
 
